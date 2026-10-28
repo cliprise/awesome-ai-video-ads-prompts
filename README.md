@@ -713,6 +713,7 @@ Best for:
 - product page videos
 - e-commerce creative testing
 - one image to multiple ads
+- [Ideoy](https://ideoy.ai) - AI photo-to-video meme templates — turn a selfie into short vertical remakes of trending memes.
 
 Related Cliprise resources:
 
